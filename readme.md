@@ -1,6 +1,6 @@
 # zookeeper
 
-zookeeper 最小例子
+zookeeper、集群
 
 ## 环境
 
